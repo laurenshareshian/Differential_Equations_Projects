@@ -1,0 +1,2 @@
+The SIRS model stands for Susceptible-Infected-Recovered. It models the spread of disease through a closed population.
+I used Euler's method and Runge-Kutta method to solve the differential equations and Matplotlib to plot them.
