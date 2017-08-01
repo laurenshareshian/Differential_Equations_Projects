@@ -1,1 +1,1 @@
-# Differential_Equations_Projects
+Differential equations projects assigned to my students.
